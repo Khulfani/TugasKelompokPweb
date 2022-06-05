@@ -1,0 +1,34 @@
+a{
+	text-decoration: none;
+}
+body{
+	background: -webkit-linear-gradient(bottom,#F9FFA4,#005555);
+}
+label{
+	font-family: "Raleway",sans-serif;
+	font-size: 11pt;
+}
+.form{
+	text-align: center;
+	color: white;
+}
+.masuk{
+	background: #005555;
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+	height: 410px;
+	margin: 6rem auto 8.1rem auto;
+	width: 329px;
+	margin-top: 250px;
+}
+.masuk-content{
+	padding: 12px 44px;
+}
+.masuk-title{
+	text-align: center;
+	color: white;
+	font-family: "Raleway Thin",sans-serif;
+	letter-spacing: 4px;
+	padding-bottom: 23px;
+	padding-top: 13px;
+}
